@@ -18,10 +18,10 @@ export default function Header() {
           <span className="ml-3 text-xl">Payna</span>
         </a>
         <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-          <a className="mr-5 hover:text-gray-900 font-medium">Home</a>
-          <a className="mr-5 hover:text-gray-900">Features</a>
-          <a className="mr-5 hover:text-gray-900">Showcase</a>
-          <a className="mr-5 hover:text-gray-900">Pricing</a>
+          <a className="mr-5 hover:text-gray-900 font-bold">Home</a>
+          <a className="mr-5 hover:text-gray-900 font-medium">Features</a>
+          <a className="mr-5 hover:text-gray-900 font-medium">Showcase</a>
+          <a className="mr-5 hover:text-gray-900 font-medium">Pricing</a>
         </nav>
         <button className="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded-lg text-base mt-4 md:mt-0">
           Sign In
