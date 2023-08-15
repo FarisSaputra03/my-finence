@@ -18,7 +18,7 @@ export default function Header() {
           <span className="ml-3 text-xl">Payna</span>
         </a>
         <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-          <a className="mr-5 hover:text-gray-900 font-bold">Home</a>
+          <a className="mr-5 hover:text-gray-900 font-medium">Home</a>
           <a className="mr-5 hover:text-gray-900">Features</a>
           <a className="mr-5 hover:text-gray-900">Showcase</a>
           <a className="mr-5 hover:text-gray-900">Pricing</a>
